@@ -1,1 +1,0 @@
-attribute @s minecraft:generic.gravity base set 1
